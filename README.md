@@ -8,3 +8,5 @@ A GDI+ WinGraph Implementation
 
 
 程序将GDL语言文件编译后成图形后画出来，这就是IDA 中 Function Call （函数调用关系图）
+
+为减少体积，方便阅读，只保留了window是平台相关的代码和注释。
